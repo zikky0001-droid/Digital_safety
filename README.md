@@ -41,11 +41,11 @@ This is not antivirus software. It does not scan, monitor, connect to, or modify
 ## Project ownership links
 
 - Portfolio: https://zikkytech.vercel.app
-- ZikkyTech: https://zikkytech.xo.je
-- CypherGuard: https://replit.com/@zikkystar0001/CypherGuard
-- CypherX: https://replit.com/@zikkystar0001/CypherX-3
-- TikTok Downloader: https://replit.com/@zikkystar0001/TikTok-Downloader
-- Dev Journey: https://replit.com/@zikkystar0001/Dev-Journey
+- DEVZIKKY TECH: https://zikkytech.xo.je
+- ZMAIL STUDIO: https://zmail.zone.id
+- ZQUOTE: https://zquote-tau.vercel.app
+- DEVZIKKY AI: https://zikky-ai.xo.je
+- ZIKKY MANGA HUB: https://zikkymangahub.onrender.com
 
 ## Notes
 
